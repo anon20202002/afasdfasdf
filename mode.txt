@@ -1,4 +1,4 @@
 {
-    "mode": "class1"
+    "mode": "class2"
     "auto": "on"
 }
